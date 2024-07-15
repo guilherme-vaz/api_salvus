@@ -1,4 +1,4 @@
-# Use a imagem base do Node.js
+
 FROM node:14
 
 WORKDIR /app
